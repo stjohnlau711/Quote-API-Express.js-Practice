@@ -1,3 +1,5 @@
 # Quote-API-Express.js-Practice
 
-Use Postman to test API, frontend tool built with React but not uploaded
+- cd into program
+- npm install
+- use Postman to test API, frontend tool built with React but not uploaded
